@@ -24,6 +24,14 @@
 	mood_change = 1
 	timeout = 2 MINUTES
 
+<<<<<<< HEAD
+=======
+/datum/mood_event/tailpulled
+	description = "<span class='nicegreen'>I love getting my tail pulled!</span>\n"
+	mood_change = 1
+	timeout = 2 MINUTES
+
+>>>>>>> 2cb326c7794... Nerfs the shit out of the felinid tail grab mood buff (#62768)
 /datum/mood_event/arcade
 	description = "<span class='nicegreen'>I beat the arcade game!</span>\n"
 	mood_change = 3
